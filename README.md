@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Project Chambers (S.U.D)](https://github.com/Twis7ed/Project-Chambers)
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **C && Rust**
 
 - ⚡ Fun fact **Most gamblers quite before they make it big!**
 
