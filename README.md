@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=twis7ed&label=Profile%20views&color=0e75b6&style=flat" alt="twis7ed" /> </p>
 
-- 🔭 I’m currently working on [Project Chambers (S.U.D)](https://github.com/Twis7ed/Project-Chambers)
+- 🔭 I’m currently working on [Xeno-CSGO](https://github.com/Twis7ed/Xeno-CSGO)
 
-- 🌱 I’m currently learning **C && Rust**
+- 🌱 I’m currently learning **C && C++**
 
 - ⚡ Fun fact **Most gamblers quite before they make it big!**
 
