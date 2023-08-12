@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=twis7ed&label=Profile%20views&color=0e75b6&style=flat" alt="twis7ed" /> </p>
 
-- 🔭 I’m currently working on [Xeno-CSGO](https://github.com/Twis7ed/Xeno-CSGO)
+- 🔭 I’m currently working on 
 
 - 🌱 I’m currently learning [Direct3D 11](https://learn.microsoft.com/en-us/windows/win32/direct3d11/atoc-dx-graphics-direct3d-11)
 
