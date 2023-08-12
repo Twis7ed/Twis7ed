@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Xeno-CSGO](https://github.com/Twis7ed/Xeno-CSGO)
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning [Direct3D 11](https://learn.microsoft.com/en-us/windows/win32/direct3d11/atoc-dx-graphics-direct3d-11)
 
 - ⚡ Fun fact **Most gamblers quit before they make it big!**
 
